@@ -5,6 +5,7 @@
     'description': 'Fix the issue of alignment in RTL languages POS order line when combining both arabic and latin characters.',
     'author': 'Mustafa SAADI, IQSYS',
     'website': 'https://imerps.com',
+    'support': 'info@imerps.com',
     'category': 'Point of Sale',
     'version': '14.0.0.0',
     'depends': ['base', 'point_of_sale'],
