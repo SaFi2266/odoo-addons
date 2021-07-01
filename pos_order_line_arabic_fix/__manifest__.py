@@ -10,7 +10,7 @@
     'depends': ['base', 'point_of_sale'],
     'qweb': ['static/src/xml/pos_order_line.xml'],
     'data': [],
-    'images': ['images/main_screenshot.png'],
+    'images': ['static/description/images/main_screenshot.png'],
     'license': 'LGPL-3',
     'auto_install': False,
     'installable': True,
