@@ -1,0 +1,339 @@
+id,country_id/id,state_id/id,zipcode,name
+iraq_city_10001,base.iq,state_iq_10,10001,Baghdad
+iraq_city_10002,base.iq,state_iq_10,10002,Al Salihiya
+iraq_city_10003,base.iq,state_iq_10,10003,Hayfa
+iraq_city_10004,base.iq,state_iq_10,10004,Al Rasheed Hotel
+iraq_city_10005,base.iq,state_iq_10,10005,Hay Adan
+iraq_city_10006,base.iq,state_iq_10,10006,Al Kadhimiya
+iraq_city_10007,base.iq,state_iq_10,10007,College Hospital
+iraq_city_10008,base.iq,state_iq_10,10008,Al Noor
+iraq_city_10009,base.iq,state_iq_10,10009,Al Hurriya
+iraq_city_10010,base.iq,state_iq_10,10010,Al Salam
+iraq_city_10011,base.iq,state_iq_10,10011,Al Karkh
+iraq_city_10012,base.iq,state_iq_10,10012,Al Ma'moon
+iraq_city_10013,base.iq,state_iq_10,10013,Al Mansour
+iraq_city_10014,base.iq,state_iq_10,10014,Al Rafidain College
+iraq_city_10015,base.iq,state_iq_10,10015,Al Yarmouk
+iraq_city_10016,base.iq,state_iq_10,10016,Al aamil
+iraq_city_10017,base.iq,state_iq_10,10017,Al Bayyaa
+iraq_city_10018,base.iq,state_iq_10,10018,Al Risala
+iraq_city_10019,base.iq,state_iq_10,10019,Al Intisar
+iraq_city_10020,base.iq,state_iq_10,10020,Al Thawra
+iraq_city_10021,base.iq,state_iq_10,10021,Al Jihad
+iraq_city_10022,base.iq,state_iq_10,10022,Al Doura
+iraq_city_10023,base.iq,state_iq_10,10023,Baghdad Airport
+iraq_city_10024,base.iq,state_iq_10,10024,ISC Cargo Terminal
+iraq_city_10044,base.iq,state_iq_10,10044,Al Rasheed
+iraq_city_10045,base.iq,state_iq_10,10045,Al Rusafa
+iraq_city_10046,base.iq,state_iq_10,10046,Al Masarif
+iraq_city_10047,base.iq,state_iq_10,10047,Bab Al Muadham
+iraq_city_10048,base.iq,state_iq_10,10048,Al Aqsa
+iraq_city_10049,base.iq,state_iq_10,10049,Altibbi collection
+iraq_city_10050,base.iq,state_iq_10,10050,Al Tullab Collection
+iraq_city_10051,base.iq,state_iq_10,10051,Edara was Eqtisad
+iraq_city_10052,base.iq,state_iq_10,10052,Al Mustansiriya
+iraq_city_10053,base.iq,state_iq_10,10053,Al Adhamiya
+iraq_city_10054,base.iq,state_iq_10,10054,Sab'abkar
+iraq_city_10055,base.iq,state_iq_10,10055,Alsha'ab
+iraq_city_10056,base.iq,state_iq_10,10056,Hamourabi
+iraq_city_10057,base.iq,state_iq_10,10057,Tammouz
+iraq_city_10058,base.iq,state_iq_10,10058,Al Fida'a
+iraq_city_10059,base.iq,state_iq_10,10059,Al Sadr City
+iraq_city_10060,base.iq,state_iq_10,10060,Al Khan'saa
+iraq_city_10061,base.iq,state_iq_10,10061,Al Baladiyat
+iraq_city_10062,base.iq,state_iq_10,10062,New Baghdad
+iraq_city_10063,base.iq,state_iq_10,10063,Al Dhubbat
+iraq_city_10064,base.iq,state_iq_10,10064,Filastin
+iraq_city_10065,base.iq,state_iq_10,10065,Al Tarbawi Collection
+iraq_city_10066,base.iq,state_iq_10,10066,Technology University
+iraq_city_10067,base.iq,state_iq_10,10067,Al Mansour College
+iraq_city_10068,base.iq,state_iq_10,10068,Al Ilwiya
+iraq_city_10069,base.iq,state_iq_10,10069,Al Kerrada
+iraq_city_10070,base.iq,state_iq_10,10070,Al Jadriya
+iraq_city_10071,base.iq,state_iq_10,10071,Baghdad University
+iraq_city_10072,base.iq,state_iq_10,10072,Al Nahrain Univ
+iraq_city_10073,base.iq,state_iq_10,10073,Al Shumookh
+iraq_city_10074,base.iq,state_iq_10,10074,Al Za'faraniya
+iraq_city_10075,base.iq,state_iq_10,10075,Al Wihda
+iraq_city_10076,base.iq,state_iq_10,10076,Al Mada'in
+iraq_city_10077,base.iq,state_iq_10,10077,Nahiyat Alrasheed
+iraq_city_10078,base.iq,state_iq_10,10078,Al Yousifiya
+iraq_city_10079,base.iq,state_iq_10,10079,Al Mahmoudiya
+iraq_city_10080,base.iq,state_iq_10,10080,Al Latifiya
+iraq_city_10081,base.iq,state_iq_10,10081,Abu Ghraib
+iraq_city_10082,base.iq,state_iq_10,10082,Al Nasr Wal Salam
+iraq_city_10083,base.iq,state_iq_10,10083,Sab' Albour
+iraq_city_10084,base.iq,state_iq_10,10084,Al Tarmiya
+iraq_city_10085,base.iq,state_iq_10,10085,Al Rashdiya
+iraq_city_10086,base.iq,state_iq_10,10086,Al Mutannabi
+iraq_city_10087,base.iq,state_iq_10,10087,Al Sha'ab
+iraq_city_10088,base.iq,state_iq_10,10088,Al Thubbat
+iraq_city_10089,base.iq,state_iq_10,10089,Al Elwiya
+iraq_city_10090,base.iq,state_iq_10,10090,Al Dawoodi
+iraq_city_10091,base.iq,state_iq_10,10091,Zayouna
+iraq_city_10092,base.iq,state_iq_10,10092,Al Harthiya
+iraq_city_31001,base.iq,state_iq_31,31001,Al Rumadi
+iraq_city_31002,base.iq,state_iq_31,31002,Al Falojah
+iraq_city_31003,base.iq,state_iq_31,31003,Al Qa'im
+iraq_city_31004,base.iq,state_iq_31,31004,Haditha
+iraq_city_31005,base.iq,state_iq_31,31005,Enna
+iraq_city_31006,base.iq,state_iq_31,31006,Rawah
+iraq_city_31007,base.iq,state_iq_31,31007,Heet
+iraq_city_31008,base.iq,state_iq_31,31008,Al Habanyah
+iraq_city_31009,base.iq,state_iq_31,31009,Al Haqaniyah
+iraq_city_31010,base.iq,state_iq_31,31010,Al Khaldiya
+iraq_city_31011,base.iq,state_iq_31,31011,Al Rutbah
+iraq_city_31012,base.iq,state_iq_31,31012,Al Quqa'
+iraq_city_31013,base.iq,state_iq_31,31013,Al Karmah
+iraq_city_31014,base.iq,state_iq_31,31014,Al Baghdadi
+iraq_city_31015,base.iq,state_iq_31,31015,Al Waleed
+iraq_city_31016,base.iq,state_iq_31,31016,Al Nukhaib
+iraq_city_31017,base.iq,state_iq_31,31017,Al Ubaidi
+iraq_city_31018,base.iq,state_iq_31,31018,Kabisa
+iraq_city_31019,base.iq,state_iq_31,31019,Tarbil
+iraq_city_31020,base.iq,state_iq_31,31020,Abu Ghraib
+iraq_city_31021,base.iq,state_iq_31,31021,Sadah
+iraq_city_31022,base.iq,state_iq_31,31022,Akashat
+iraq_city_32001,base.iq,state_iq_32,32001,Ba'aqubah
+iraq_city_32002,base.iq,state_iq_32,32002,Al Mansouryah
+iraq_city_32003,base.iq,state_iq_32,32003,Al Muqdadyah
+iraq_city_32004,base.iq,state_iq_32,32004,Kefri
+iraq_city_32005,base.iq,state_iq_32,32005,Baladrouz
+iraq_city_32006,base.iq,state_iq_32,32006,Al Khalis
+iraq_city_32007,base.iq,state_iq_32,32007,Khanaqeen
+iraq_city_32008,base.iq,state_iq_32,32008,Jalawla'a
+iraq_city_32009,base.iq,state_iq_32,32009,Mandily
+iraq_city_32010,base.iq,state_iq_32,32010,Qaratabba
+iraq_city_32011,base.iq,state_iq_32,32011,Kan’aan
+iraq_city_32012,base.iq,state_iq_32,32012,Hubhib
+iraq_city_32013,base.iq,state_iq_32,32013,Qazaniyah
+iraq_city_32014,base.iq,state_iq_32,32014,Abu Sayda
+iraq_city_32015,base.iq,state_iq_32,32015,Al Sa'adiya
+iraq_city_32016,base.iq,state_iq_32,32016,Banisa'ad
+iraq_city_32017,base.iq,state_iq_32,32017,Al Wajehiya
+iraq_city_32018,base.iq,state_iq_32,32018,Al Saray
+iraq_city_32019,base.iq,state_iq_32,32019,Al Muntheriya
+iraq_city_34001,base.iq,state_iq_34,34001,Tikreet
+iraq_city_34002,base.iq,state_iq_34,34002,Al Dur
+iraq_city_34003,base.iq,state_iq_34,34003,Sa'ad
+iraq_city_34004,base.iq,state_iq_34,34004,Salman Pak
+iraq_city_34005,base.iq,state_iq_34,34005,Al Sherqat
+iraq_city_34006,base.iq,state_iq_34,34006,Al Dejail
+iraq_city_34007,base.iq,state_iq_34,34007,Baiji
+iraq_city_34008,base.iq,state_iq_34,34008,Al Seniyah
+iraq_city_34009,base.iq,state_iq_34,34009,Al Touz
+iraq_city_34010,base.iq,state_iq_34,34010,Samarra'
+iraq_city_34011,base.iq,state_iq_34,34011,Balad
+iraq_city_34012,base.iq,state_iq_34,34012,Al Es’haqi
+iraq_city_34013,base.iq,state_iq_34,34013,Al Dhuluiya
+iraq_city_34014,base.iq,state_iq_34,34014,Al Faris (Bamerni)
+iraq_city_36001,base.iq,state_iq_36,36001,Kurkuk
+iraq_city_36002,base.iq,state_iq_36,36002,Al Riyadh
+iraq_city_36003,base.iq,state_iq_36,36003,Lilan
+iraq_city_36004,base.iq,state_iq_36,36004,Khalid Bin Al Waleed
+iraq_city_36005,base.iq,state_iq_36,36005,Al Rashad
+iraq_city_36006,base.iq,state_iq_36,36006,Taza Khormatoo
+iraq_city_36007,base.iq,state_iq_36,36007,Al Haweejah
+iraq_city_36008,base.iq,state_iq_36,36008,Daquq
+iraq_city_36009,base.iq,state_iq_36,36009,Al Zab
+iraq_city_36010,base.iq,state_iq_36,36010,Al Debiss
+iraq_city_36011,base.iq,state_iq_36,36011,Al Abassi
+iraq_city_36012,base.iq,state_iq_36,36012,Al Hay Al Sena'ye
+iraq_city_36013,base.iq,state_iq_36,36013,Al Hay Al Wasity
+iraq_city_36014,base.iq,state_iq_36,36014,Al Hay Al Askary
+iraq_city_36015,base.iq,state_iq_36,36015,Elton Kubri
+iraq_city_41001,base.iq,state_iq_41,41001,Mousl
+iraq_city_41002,base.iq,state_iq_41,41002,Mousl University
+iraq_city_41003,base.iq,state_iq_41,41003,Al Zuhoor
+iraq_city_41004,base.iq,state_iq_41,41004,Belatt Al Shuhada'a
+iraq_city_41005,base.iq,state_iq_41,41005,Al Shuraa
+iraq_city_41006,base.iq,state_iq_41,41006,Al Hamdaniya
+iraq_city_41007,base.iq,state_iq_41,41007,Abi Tammam
+iraq_city_41008,base.iq,state_iq_41,41008,Al Qayara
+iraq_city_41009,base.iq,state_iq_41,41009,Hammam Al Aleel
+iraq_city_41010,base.iq,state_iq_41,41010,Tella’squf
+iraq_city_41011,base.iq,state_iq_41,41011,Al Sheekhan
+iraq_city_41012,base.iq,state_iq_41,41012,Telkaif
+iraq_city_41013,base.iq,state_iq_41,41013,Ba’sheeqa
+iraq_city_41014,base.iq,state_iq_41,41014,Zummar
+iraq_city_41015,base.iq,state_iq_41,41015,Sinjar
+iraq_city_41016,base.iq,state_iq_41,41016,Tella’far
+iraq_city_41017,base.iq,state_iq_41,41017,Makhmour
+iraq_city_41018,base.iq,state_iq_41,41018,Athar Nainawa
+iraq_city_41019,base.iq,state_iq_41,41019,Bartellah
+iraq_city_41020,base.iq,state_iq_41,41020,Al Qoush
+iraq_city_41021,base.iq,state_iq_41,41021,Al Namroud
+iraq_city_41022,base.iq,state_iq_41,41022,Al Hadher
+iraq_city_41023,base.iq,state_iq_41,41023,Al Ba'ajj
+iraq_city_41024,base.iq,state_iq_41,41024,Al Kuwair
+iraq_city_41025,base.iq,state_iq_41,41025,Rabeeaa
+iraq_city_42001,base.iq,state_iq_42,42001,Duhouk
+iraq_city_42002,base.iq,state_iq_42,42002,Zakhou
+iraq_city_42003,base.iq,state_iq_42,42003,Semmil
+iraq_city_42004,base.iq,state_iq_42,42004,Aqra
+iraq_city_42005,base.iq,state_iq_42,42005,Bijil
+iraq_city_42006,base.iq,state_iq_42,42006,Berdaresh
+iraq_city_42007,base.iq,state_iq_42,42007,Zaweeta
+iraq_city_42008,base.iq,state_iq_42,42008,Al Amadiya
+iraq_city_42009,base.iq,state_iq_42,42009,Sarsanq
+iraq_city_42010,base.iq,state_iq_42,42010,Sulaf
+iraq_city_42011,base.iq,state_iq_42,42011,Batouna
+iraq_city_42012,base.iq,state_iq_42,42012,Al Sheekhan
+iraq_city_42999,base.iq,state_iq_42,42999,Marina
+iraq_city_42003,base.iq,state_iq_42,42003,Tahlava
+iraq_city_44001,base.iq,state_iq_44,44001,Arbil
+iraq_city_44002,base.iq,state_iq_44,44002,Salladdin University
+iraq_city_44003,base.iq,state_iq_44,44003,Ain Kawa
+iraq_city_44004,base.iq,state_iq_44,44004,Masseef Salahelddeen
+iraq_city_44005,base.iq,state_iq_44,44005,Shaqlawa
+iraq_city_44006,base.iq,state_iq_44,44006,Hareer
+iraq_city_44007,base.iq,state_iq_44,44007,Khaleefan
+iraq_city_44008,base.iq,state_iq_44,44008,Soran
+iraq_city_44009,base.iq,state_iq_44,44009,Rawendooz
+iraq_city_44010,base.iq,state_iq_44,44010,Joman
+iraq_city_44011,base.iq,state_iq_44,44011,Galala
+iraq_city_44012,base.iq,state_iq_44,44012,Haj Umran
+iraq_city_44013,base.iq,state_iq_44,44013,Merga Sur
+iraq_city_44014,base.iq,state_iq_44,44014,Seerwan
+iraq_city_44015,base.iq,state_iq_44,44015,Debca
+iraq_city_44016,base.iq,state_iq_44,44016,Mishtiqa
+iraq_city_44017,base.iq,state_iq_44,44017,Deshti Huweer
+iraq_city_44018,base.iq,state_iq_44,44018,Kalak
+iraq_city_44019,base.iq,state_iq_44,44019,Diana
+iraq_city_44020,base.iq,state_iq_44,44020,Mekhmour
+iraq_city_44021,base.iq,state_iq_44,44021,Quwair
+iraq_city_44022,base.iq,state_iq_44,44022,Alton Copri
+iraq_city_44023,base.iq,state_iq_44,44023,Koy Sinjaq
+iraq_city_44024,base.iq,state_iq_44,44024,Erbil police
+iraq_city_46001,base.iq,state_iq_46,46001,Sulaymaniah
+iraq_city_46002,base.iq,state_iq_46,46002,Bakhtyari
+iraq_city_46003,base.iq,state_iq_46,46003,Razgari
+iraq_city_46004,base.iq,state_iq_46,46004,Arabet
+iraq_city_46005,base.iq,state_iq_46,46005,Sharazor
+iraq_city_46006,base.iq,state_iq_46,46006,HaLabja
+iraq_city_46007,base.iq,state_iq_46,46007,Penjaween
+iraq_city_46008,base.iq,state_iq_46,46008,Said Sadiq
+iraq_city_46009,base.iq,state_iq_46,46009,Bazyan
+iraq_city_46010,base.iq,state_iq_46,46010,Dokan
+iraq_city_46011,base.iq,state_iq_46,46011,Bekra Jo
+iraq_city_46012,base.iq,state_iq_46,46012,Rania
+iraq_city_46013,base.iq,state_iq_46,46013,Beshdar
+iraq_city_46014,base.iq,state_iq_46,46014,Qara Dag
+iraq_city_46015,base.iq,state_iq_46,46015,Kwaisanjaq
+iraq_city_46016,base.iq,state_iq_46,46016,Qal’at Diza
+iraq_city_46017,base.iq,state_iq_46,46017,Koya
+iraq_city_46019,base.iq,state_iq_46,46019,Chwarta
+iraq_city_46020,base.iq,state_iq_46,46020,Derbendikhan
+iraq_city_46021,base.iq,state_iq_46,46021,Calar
+iraq_city_46022,base.iq,state_iq_46,46022,Kifri
+iraq_city_46023,base.iq,state_iq_46,46023,Chemchemal
+iraq_city_46024,base.iq,state_iq_46,46024,Ashti
+iraq_city_46029,base.iq,state_iq_46,46029,Hawkary
+iraq_city_51001,base.iq,state_iq_51,51001,Al Hilla
+iraq_city_51002,base.iq,state_iq_51,51002,Babil University
+iraq_city_51003,base.iq,state_iq_51,51003,Bab Al Mashhad
+iraq_city_51004,base.iq,state_iq_51,51004,Eshtar
+iraq_city_51005,base.iq,state_iq_51,51005,Al Emam
+iraq_city_51006,base.iq,state_iq_51,51006,Al Musayab
+iraq_city_51007,base.iq,state_iq_51,51007,Al Eskandariya
+iraq_city_51008,base.iq,state_iq_51,51008,Al Muhaweel
+iraq_city_51009,base.iq,state_iq_51,51009,Al Mashrooa
+iraq_city_51010,base.iq,state_iq_51,51010,Saddat Al Hindiyah
+iraq_city_51011,base.iq,state_iq_51,51011,Al Kifil
+iraq_city_51012,base.iq,state_iq_51,51012,Al Hashimiyah
+iraq_city_51013,base.iq,state_iq_51,51013,Al Qassim
+iraq_city_51014,base.iq,state_iq_51,51014,Al Showmali
+iraq_city_51015,base.iq,state_iq_51,51015,Abi Gharaq
+iraq_city_51016,base.iq,state_iq_51,51016,Al Midhatiya
+iraq_city_51017,base.iq,state_iq_51,51017,Al Nile
+iraq_city_51018,base.iq,state_iq_51,51018,Al Talee'a
+iraq_city_51019,base.iq,state_iq_51,51019,Jurf Al Sakhar
+iraq_city_52001,base.iq,state_iq_52,52001,Al Kut
+iraq_city_52002,base.iq,state_iq_52,52002,Al Suwaira
+iraq_city_52003,base.iq,state_iq_52,52003,Al Zubaidiya
+iraq_city_52004,base.iq,state_iq_52,52004,Badra
+iraq_city_52005,base.iq,state_iq_52,52005,Al Azeeziaya
+iraq_city_52006,base.iq,state_iq_52,52006,Al Urooba
+iraq_city_52007,base.iq,state_iq_52,52007,Al Ahrar
+iraq_city_52008,base.iq,state_iq_52,52008,Shaikh Sa'ad
+iraq_city_52009,base.iq,state_iq_52,52009,Al Muwafaqiya
+iraq_city_52010,base.iq,state_iq_52,52010,Al Nu'maniya
+iraq_city_52011,base.iq,state_iq_52,52011,Al Hay
+iraq_city_54001,base.iq,state_iq_54,54001,Al Najaf
+iraq_city_54002,base.iq,state_iq_54,54002,Al Abbasiya
+iraq_city_54003,base.iq,state_iq_54,54003,Al Koofa
+iraq_city_54004,base.iq,state_iq_54,54004,Al Qadisiya
+iraq_city_54005,base.iq,state_iq_54,54005,Al Manathira
+iraq_city_54006,base.iq,state_iq_54,54006,Mishkhab
+iraq_city_54007,base.iq,state_iq_54,54007,Al Herra
+iraq_city_56001,base.iq,state_iq_56,56001,Karbala
+iraq_city_56002,base.iq,state_iq_56,56002,Al Hindiya
+iraq_city_56003,base.iq,state_iq_56,56003,Al Husayniya
+iraq_city_56004,base.iq,state_iq_56,56004,Ain Tamr
+iraq_city_58001,base.iq,state_iq_58,58001,Ad Deewaniya
+iraq_city_58002,base.iq,state_iq_58,58002,Al Quadisiya University
+iraq_city_58003,base.iq,state_iq_58,58003,Al Hamza
+iraq_city_58004,base.iq,state_iq_58,58004,Afaq
+iraq_city_58005,base.iq,state_iq_58,58005,Al Shannafiya
+iraq_city_58006,base.iq,state_iq_58,58006,Al Shamiya
+iraq_city_58007,base.iq,state_iq_58,58007,Al Daghara
+iraq_city_58008,base.iq,state_iq_58,58008,Ghammas
+iraq_city_58009,base.iq,state_iq_58,58009,Al Mahannawiya
+iraq_city_58010,base.iq,state_iq_58,58010,Al Salahiya
+iraq_city_58011,base.iq,state_iq_58,58011,Sumer
+iraq_city_58012,base.iq,state_iq_58,58012,Al Suwaira
+iraq_city_58013,base.iq,state_iq_58,58013,Al Sinniya
+iraq_city_58014,base.iq,state_iq_58,58014,Al Shafiiyya
+iraq_city_58015,base.iq,state_iq_58,58015,Al Sadeer
+iraq_city_58016,base.iq,state_iq_58,58016,Nefar
+iraq_city_58017,base.iq,state_iq_58,58017,Al Sumood
+iraq_city_58018,base.iq,state_iq_58,58018,Al Tahaddi
+iraq_city_58019,base.iq,state_iq_58,58019,Al ibder
+iraq_city_61019,base.iq,state_iq_61,61019,Al Jumhouriya
+iraq_city_61020,base.iq,state_iq_61,61020,Al Dair
+iraq_city_61021,base.iq,state_iq_61,61021,Al Mandiqa Al hura
+iraq_city_61022,base.iq,state_iq_61,61022,Hamdan
+iraq_city_61023,base.iq,state_iq_61,61023,Ibnil Haythem
+iraq_city_61024,base.iq,state_iq_61,61024,Al Nashwa
+iraq_city_61025,base.iq,state_iq_61,61025,Khour Alzubair
+iraq_city_61026,base.iq,state_iq_61,61026,Rijal Al A'mal
+iraq_city_61027,base.iq,state_iq_61,61027,Al Uboor collection
+iraq_city_61028,base.iq,state_iq_61,61028,Al Basra Airport
+iraq_city_61029,base.iq,state_iq_61,61029,Al Meethag
+iraq_city_61030,base.iq,state_iq_61,61030,Madinat Al Basrah
+iraq_city_62001,base.iq,state_iq_62,62001,Al Emara
+iraq_city_62002,base.iq,state_iq_62,62002,Ali Alsharqi
+iraq_city_62003,base.iq,state_iq_62,62003,Ali Al Gharbi
+iraq_city_62004,base.iq,state_iq_62,62004,Kumait
+iraq_city_62005,base.iq,state_iq_62,62005,Al Misharrah
+iraq_city_62006,base.iq,state_iq_62,62006,Al Maymouna
+iraq_city_62007,base.iq,state_iq_62,62007,Al Majar Alkabeer
+iraq_city_62008,base.iq,state_iq_62,62008,Qal'at Salih
+iraq_city_62009,base.iq,state_iq_62,62009,Al Kehlaa
+iraq_city_62010,base.iq,state_iq_62,62010,AL Azair
+iraq_city_62011,base.iq,state_iq_62,62011,Al Iskan
+iraq_city_62012,base.iq,state_iq_62,62012,Al Salam
+iraq_city_64001,base.iq,state_iq_64,64001,Al Nasiriya
+iraq_city_64002,base.iq,state_iq_64,64002,Al Gharraf
+iraq_city_64003,base.iq,state_iq_64,64003,Al Qul'aa
+iraq_city_64004,base.iq,state_iq_64,64004,Al Nasr
+iraq_city_64005,base.iq,state_iq_64,64005,Al Rifaee
+iraq_city_64006,base.iq,state_iq_64,64006,Al Fajr
+iraq_city_64007,base.iq,state_iq_64,64007,Al Shatra
+iraq_city_64008,base.iq,state_iq_64,64008,Al Islah
+iraq_city_64009,base.iq,state_iq_64,64009,Karmat Beni Sa'eed
+iraq_city_64010,base.iq,state_iq_64,64010,Al Fetheliya
+iraq_city_64011,base.iq,state_iq_64,64011,Al Bat'haa
+iraq_city_64012,base.iq,state_iq_64,64012,Al Dawaya
+iraq_city_64013,base.iq,state_iq_64,64013,Al Hammar
+iraq_city_64014,base.iq,state_iq_64,64014,Al Fuhood
+iraq_city_64015,base.iq,state_iq_64,64015,Al Jibayesh
+iraq_city_64016,base.iq,state_iq_64,64016,Suq Al Shuiokh
+iraq_city_66001,base.iq,state_iq_66,66001,Al Sumaway
+iraq_city_66002,base.iq,state_iq_66,66002,Al Rumaythah
+iraq_city_66003,base.iq,state_iq_66,66003,Al Khider
+iraq_city_66004,base.iq,state_iq_66,66004,Al Salman
+iraq_city_66005,base.iq,state_iq_66,66005,Al Najmi
+iraq_city_66006,base.iq,state_iq_66,66006,Al Warka'a
+iraq_city_66007,base.iq,state_iq_66,66007,Al Helall
+iraq_city_66008,base.iq,state_iq_66,66008,Al Majid

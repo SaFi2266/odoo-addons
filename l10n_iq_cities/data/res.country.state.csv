@@ -1,0 +1,19 @@
+id,country_id/id,name,code
+state_iq_31,base.iq,Al Anbar,IQ-AN
+state_iq_10,base.iq,Baghdad,IQ-BG
+state_iq_32,base.iq,Diyala,IQ-DI
+state_iq_34,base.iq,Salah ad Din,IQ-SD
+state_iq_36,base.iq,Kirkuk,IQ-KI
+state_iq_41,base.iq,Ninawa,IQ-NI
+state_iq_42,base.iq,Dahūk,IQ-DA
+state_iq_44,base.iq,Erbil,IQ-AR
+state_iq_46,base.iq,As Sulaymānīyah,IQ-SU
+state_iq_51,base.iq,Babil,IQ-BB
+state_iq_52,base.iq,Wasit,IQ-WA
+state_iq_54,base.iq,An Najaf,IQ-NA
+state_iq_56,base.iq,Karbala,IQ-KA
+state_iq_58,base.iq,Al Qādisiyyah,IQ-QA
+state_iq_61,base.iq,Al Basrah,IQ-BA
+state_iq_62,base.iq,Maysan,IQ-MA
+state_iq_64,base.iq,Dhi Qar,IQ-DQ
+state_iq_66,base.iq,Al Muthanna,IQ-MU

@@ -1,0 +1,1785 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* l10n_iq_cities
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 17.0-20240216\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-14 12:45+0000\n"
+"PO-Revision-Date: 2024-03-14 17:00+0300\n"
+"Last-Translator: Mustafa SAADI <safi2266@gmail.com>\n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_62010
+msgid "AL Azair"
+msgstr "العزير"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_51015
+msgid "Abi Gharaq"
+msgstr "أبي غراق"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41007
+msgid "Abi Tammam"
+msgstr "أبي تمام"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10081
+#: model:res.city,name:l10n_iq_cities.iraq_city_31020
+msgid "Abu Ghraib"
+msgstr "أبو غريب"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_32014
+msgid "Abu Sayda"
+msgstr "أبو صيدا"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_58001
+msgid "Ad Deewaniya"
+msgstr "الديوانية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_58004
+msgid "Afaq"
+msgstr "عفك"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_44003
+msgid "Ain Kawa"
+msgstr "عين كاوة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_56004
+msgid "Ain Tamr"
+msgstr "عين التمر"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_31022
+msgid "Akashat"
+msgstr "عكاشات"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_36011
+msgid "Al Abassi"
+msgstr "العباسي"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_54002
+msgid "Al Abbasiya"
+msgstr "العباسية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10053
+msgid "Al Adhamiya"
+msgstr "الأعظمية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_52007
+msgid "Al Ahrar"
+msgstr "الأحرار"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_42008
+msgid "Al Amadiya"
+msgstr "العمادية"
+
+#. module: l10n_iq_cities
+#: model:res.country.state,name:l10n_iq_cities.state_iq_31
+msgid "Al Anbar"
+msgstr "الأنبار"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10048
+msgid "Al Aqsa"
+msgstr "الأقصى"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_52005
+msgid "Al Azeeziaya"
+msgstr "العزيزية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41023
+msgid "Al Ba'ajj"
+msgstr "البعاج"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_31014
+msgid "Al Baghdadi"
+msgstr "البغدادي"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10061
+msgid "Al Baladiyat"
+msgstr "البلديات"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_61028
+msgid "Al Basra Airport"
+msgstr "مطار البصرة"
+
+#. module: l10n_iq_cities
+#: model:res.country.state,name:l10n_iq_cities.state_iq_61
+msgid "Al Basrah"
+msgstr "البصرة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_64011
+msgid "Al Bat'haa"
+msgstr "البطحاء"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10017
+msgid "Al Bayyaa"
+msgstr "البياع"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_58007
+msgid "Al Daghara"
+msgstr "الدغارة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_61020
+msgid "Al Dair"
+msgstr "الدير"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_64012
+msgid "Al Dawaya"
+msgstr "الدوايا"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10090
+msgid "Al Dawoodi"
+msgstr "الداوودي"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_36010
+msgid "Al Debiss"
+msgstr "الدبس"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_34006
+msgid "Al Dejail"
+msgstr "الدجيل"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10063
+msgid "Al Dhubbat"
+msgstr "الضباط"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_34013
+msgid "Al Dhuluiya"
+msgstr "الضلوعية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10022
+msgid "Al Doura"
+msgstr "الدورة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_34002
+msgid "Al Dur"
+msgstr "الدور"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10089
+msgid "Al Elwiya"
+msgstr "العلوية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_51005
+msgid "Al Emam"
+msgstr "الإمام"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_62001
+msgid "Al Emara"
+msgstr "العمارة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_51007
+msgid "Al Eskandariya"
+msgstr "الاسكندرية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_34012
+msgid "Al Es’haqi"
+msgstr "الإشراقي"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_64006
+msgid "Al Fajr"
+msgstr "الفجر"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_31002
+msgid "Al Falojah"
+msgstr "الفلوجة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_34014
+msgid "Al Faris (Bamerni)"
+msgstr "الفارس (بامرني)"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_64010
+msgid "Al Fetheliya"
+msgstr "الفضيلية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10058
+msgid "Al Fida'a"
+msgstr "الفداء"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_64014
+msgid "Al Fuhood"
+msgstr "الفهود"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_64002
+msgid "Al Gharraf"
+msgstr "الغراف"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_31008
+msgid "Al Habanyah"
+msgstr "الحبانية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41022
+msgid "Al Hadher"
+msgstr "الحضر"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41006
+msgid "Al Hamdaniya"
+msgstr "الحمدانية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_64013
+msgid "Al Hammar"
+msgstr "الحمّار"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_58003
+msgid "Al Hamza"
+msgstr "الحمزة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_31009
+msgid "Al Haqaniyah"
+msgstr "الحقلانية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10092
+msgid "Al Harthiya"
+msgstr "الحارثية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_51012
+msgid "Al Hashimiyah"
+msgstr "الهاشمية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_36007
+msgid "Al Haweejah"
+msgstr "الحويجة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_52011
+msgid "Al Hay"
+msgstr "الحي"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_36014
+msgid "Al Hay Al Askary"
+msgstr "الحي العسكري"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_36012
+msgid "Al Hay Al Sena'ye"
+msgstr "الحي الصناعي"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_36013
+msgid "Al Hay Al Wasity"
+msgstr "الحي الواسطي"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_66007
+msgid "Al Helall"
+msgstr "الهلال"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_54007
+msgid "Al Herra"
+msgstr "الحيرة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_51001
+msgid "Al Hilla"
+msgstr "الحلة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_56002
+msgid "Al Hindiya"
+msgstr "الهندية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10009
+msgid "Al Hurriya"
+msgstr "الحرية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_56003
+msgid "Al Husayniya"
+msgstr "الحسينية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10068
+msgid "Al Ilwiya"
+msgstr "العلوية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10019
+msgid "Al Intisar"
+msgstr "الانتصار"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_62011
+msgid "Al Iskan"
+msgstr "الاسكان"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_64008
+msgid "Al Islah"
+msgstr "الإصلاح"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10070
+msgid "Al Jadriya"
+msgstr "الجادرية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_64015
+msgid "Al Jibayesh"
+msgstr "الجبايش"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10021
+msgid "Al Jihad"
+msgstr "الجهاد"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_61019
+msgid "Al Jumhouriya"
+msgstr "الجمهورية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10006
+msgid "Al Kadhimiya"
+msgstr "الكاظمية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10011
+msgid "Al Karkh"
+msgstr "الكرخ"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_31013
+msgid "Al Karmah"
+msgstr "الكرمة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_62009
+msgid "Al Kehlaa"
+msgstr "الكحلاء"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10069
+msgid "Al Kerrada"
+msgstr "الكرادة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_31010
+msgid "Al Khaldiya"
+msgstr "الخالدية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_32006
+msgid "Al Khalis"
+msgstr "الخالص"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10060
+msgid "Al Khan'saa"
+msgstr "الخنساء"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_66003
+msgid "Al Khider"
+msgstr "الخضر"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_51011
+msgid "Al Kifil"
+msgstr "الكفل"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_54003
+msgid "Al Koofa"
+msgstr "الكوفة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_52001
+msgid "Al Kut"
+msgstr "الكوت"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41024
+msgid "Al Kuwair"
+msgstr "الكوير"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10080
+msgid "Al Latifiya"
+msgstr "اللطيفية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10012
+msgid "Al Ma'moon"
+msgstr "المأمون"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10076
+msgid "Al Mada'in"
+msgstr "المدائن"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_58009
+msgid "Al Mahannawiya"
+msgstr "المهناوية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10079
+msgid "Al Mahmoudiya"
+msgstr "المحمودية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_62007
+msgid "Al Majar Alkabeer"
+msgstr "المجر الكبير"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_66008
+msgid "Al Majid"
+msgstr "المجد"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_54005
+msgid "Al Manathira"
+msgstr "المناذرة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_61021
+msgid "Al Mandiqa Al hura"
+msgstr "المنطقة الحرة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10013
+msgid "Al Mansour"
+msgstr "المنصور"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10067
+msgid "Al Mansour College"
+msgstr "كلية المنصور"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_32002
+msgid "Al Mansouryah"
+msgstr "المنصورية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10046
+msgid "Al Masarif"
+msgstr "المصارف"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_51009
+msgid "Al Mashrooa"
+msgstr "المشروع"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_62006
+msgid "Al Maymouna"
+msgstr "الميمونة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_61029
+msgid "Al Meethag"
+msgstr "الميثاق"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_51016
+msgid "Al Midhatiya"
+msgstr "المتحتية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_62005
+msgid "Al Misharrah"
+msgstr "المشرح"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_51008
+msgid "Al Muhaweel"
+msgstr "المحاويل"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_32019
+msgid "Al Muntheriya"
+msgstr "المنذرية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_32003
+msgid "Al Muqdadyah"
+msgstr "المقدادية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_51006
+msgid "Al Musayab"
+msgstr "المسيب"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10052
+msgid "Al Mustansiriya"
+msgstr "المستنصرية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10086
+msgid "Al Mutannabi"
+msgstr "المتنبي"
+
+#. module: l10n_iq_cities
+#: model:res.country.state,name:l10n_iq_cities.state_iq_66
+msgid "Al Muthanna"
+msgstr "المثنى"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_52009
+msgid "Al Muwafaqiya"
+msgstr "الموفقية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10072
+msgid "Al Nahrain Univ"
+msgstr "جامعة النهرين"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_54001
+msgid "Al Najaf"
+msgstr "النجف"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_66005
+msgid "Al Najmi"
+msgstr "النجمي"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41021
+msgid "Al Namroud"
+msgstr "النمرود"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_61024
+msgid "Al Nashwa"
+msgstr "النشوة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_64001
+msgid "Al Nasiriya"
+msgstr "الناصرية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_64004
+msgid "Al Nasr"
+msgstr "النصر"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10082
+msgid "Al Nasr Wal Salam"
+msgstr "النصر والسلام"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_51017
+msgid "Al Nile"
+msgstr "النيل"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10008
+msgid "Al Noor"
+msgstr "النور"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_52010
+msgid "Al Nu'maniya"
+msgstr "النعمانية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_31016
+msgid "Al Nukhaib"
+msgstr "النخيب"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_31003
+msgid "Al Qa'im"
+msgstr "القائم"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_54004
+msgid "Al Qadisiya"
+msgstr "القادسية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_51013
+msgid "Al Qassim"
+msgstr "القاسم"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41008
+msgid "Al Qayara"
+msgstr "اﻟﮕﯿﺎرة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41020
+msgid "Al Qoush"
+msgstr "القوش"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_58002
+msgid "Al Quadisiya University"
+msgstr "جامعة القادسية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_64003
+msgid "Al Qul'aa"
+msgstr "القلعة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_31012
+msgid "Al Quqa'"
+msgstr "القعقاع"
+
+#. module: l10n_iq_cities
+#: model:res.country.state,name:l10n_iq_cities.state_iq_58
+msgid "Al Qādisiyyah"
+msgstr "القادسية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10014
+msgid "Al Rafidain College"
+msgstr "كلية الرافدين"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_36005
+msgid "Al Rashad"
+msgstr "الرشاد"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10085
+msgid "Al Rashdiya"
+msgstr "الراشدية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10044
+msgid "Al Rasheed"
+msgstr "الرشيد"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10004
+msgid "Al Rasheed Hotel"
+msgstr "فندق الرشيد"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_64005
+msgid "Al Rifaee"
+msgstr "الرفاعي"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10018
+msgid "Al Risala"
+msgstr "الرسالة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_36002
+msgid "Al Riyadh"
+msgstr "الرياض"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_31001
+msgid "Al Rumadi"
+msgstr "الرمادي"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_66002
+msgid "Al Rumaythah"
+msgstr "الرميثة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10045
+msgid "Al Rusafa"
+msgstr "الرصافة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_31011
+msgid "Al Rutbah"
+msgstr "الرطبة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_32015
+msgid "Al Sa'adiya"
+msgstr "السعدية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_58015
+msgid "Al Sadeer"
+msgstr "السدير"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10059
+msgid "Al Sadr City"
+msgstr "مدينة الصدر"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_58010
+msgid "Al Salahiya"
+msgstr "الصلاحية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10010
+#: model:res.city,name:l10n_iq_cities.iraq_city_62012
+msgid "Al Salam"
+msgstr "السلام"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10002
+msgid "Al Salihiya"
+msgstr "الصالحية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_66004
+msgid "Al Salman"
+msgstr "السلمان"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_32018
+msgid "Al Saray"
+msgstr "السراي"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_34008
+msgid "Al Seniyah"
+msgstr "السنية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10087
+msgid "Al Sha'ab"
+msgstr "الشعب"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_58014
+msgid "Al Shafiiyya"
+msgstr "الشافعية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_58006
+msgid "Al Shamiya"
+msgstr "الشامية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_58005
+msgid "Al Shannafiya"
+msgstr "الشنافية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_64007
+msgid "Al Shatra"
+msgstr "الشطرة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41011
+#: model:res.city,name:l10n_iq_cities.iraq_city_42012
+msgid "Al Sheekhan"
+msgstr "الشيخان"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_34005
+msgid "Al Sherqat"
+msgstr "الشرقاط"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_51014
+msgid "Al Showmali"
+msgstr "الشوملي"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10073
+msgid "Al Shumookh"
+msgstr "الشموخ"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41005
+msgid "Al Shuraa"
+msgstr "الشورة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_58013
+msgid "Al Sinniya"
+msgstr "الصينية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_66001
+msgid "Al Sumaway"
+msgstr "السماوي"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_58017
+msgid "Al Sumood"
+msgstr "الصمود"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_52002
+#: model:res.city,name:l10n_iq_cities.iraq_city_58012
+msgid "Al Suwaira"
+msgstr "الصويرة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_58018
+msgid "Al Tahaddi"
+msgstr "التحدي"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_51018
+msgid "Al Talee'a"
+msgstr "الطليعة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10065
+msgid "Al Tarbawi Collection"
+msgstr "المجموعة التربوية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10084
+msgid "Al Tarmiya"
+msgstr "الطارمية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10020
+msgid "Al Thawra"
+msgstr "الثورة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10088
+msgid "Al Thubbat"
+msgstr "الثبات"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_34009
+msgid "Al Touz"
+msgstr "الطوز"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10050
+msgid "Al Tullab Collection"
+msgstr "المجمع الطلابي"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_31017
+msgid "Al Ubaidi"
+msgstr "العبيدي"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_61027
+msgid "Al Uboor collection"
+msgstr "مجموعة العبور"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_52006
+msgid "Al Urooba"
+msgstr "العروبة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_32017
+msgid "Al Wajehiya"
+msgstr "الوجيهية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_31015
+msgid "Al Waleed"
+msgstr "الوليد"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_66006
+msgid "Al Warka'a"
+msgstr "الوركاء"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10075
+msgid "Al Wihda"
+msgstr "الوحدة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10015
+msgid "Al Yarmouk"
+msgstr "اليرموك"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10078
+msgid "Al Yousifiya"
+msgstr "اليوسفية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10074
+msgid "Al Za'faraniya"
+msgstr "الزعفرانية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_36009
+msgid "Al Zab"
+msgstr "الزاب"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_52003
+msgid "Al Zubaidiya"
+msgstr "الزبيدية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41003
+msgid "Al Zuhoor"
+msgstr "الزهور"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10016
+msgid "Al aamil"
+msgstr "العامل"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_58019
+msgid "Al ibder"
+msgstr "آل بدير"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_62003
+msgid "Ali Al Gharbi"
+msgstr "علي الغربي"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_62002
+msgid "Ali Alsharqi"
+msgstr "علي الشرقي"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10055
+msgid "Alsha'ab"
+msgstr "الشعب"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10049
+msgid "Altibbi collection"
+msgstr "المجمع الطبي"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_44022
+msgid "Alton Copri"
+msgstr "ألتون كوبري"
+
+#. module: l10n_iq_cities
+#: model:res.country.state,name:l10n_iq_cities.state_iq_54
+msgid "An Najaf"
+msgstr "النجف الأشرف"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_42004
+msgid "Aqra"
+msgstr "عقرة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_46004
+msgid "Arabet"
+msgstr "عربت"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_44001
+msgid "Arbil"
+msgstr "اربيل"
+
+#. module: l10n_iq_cities
+#: model:res.country.state,name:l10n_iq_cities.state_iq_46
+msgid "As Sulaymānīyah"
+msgstr "السليمانية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_46024
+msgid "Ashti"
+msgstr "آشتي"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41018
+msgid "Athar Nainawa"
+msgstr "آثار نينوى"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_32001
+msgid "Ba'aqubah"
+msgstr "بعقوبة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_51003
+msgid "Bab Al Mashhad"
+msgstr "باب المشهد"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10047
+msgid "Bab Al Muadham"
+msgstr "باب المعظم"
+
+#. module: l10n_iq_cities
+#: model:res.country.state,name:l10n_iq_cities.state_iq_51
+msgid "Babil"
+msgstr "بابل"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_51002
+msgid "Babil University"
+msgstr "جامعة بابل"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_52004
+msgid "Badra"
+msgstr "بدرة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10001
+#: model:res.country.state,name:l10n_iq_cities.state_iq_10
+msgid "Baghdad"
+msgstr "بغداد"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10023
+msgid "Baghdad Airport"
+msgstr "مطار بغداد"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10071
+msgid "Baghdad University"
+msgstr "جامعة بغداد"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_34007
+msgid "Baiji"
+msgstr "بيجي"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_46002
+msgid "Bakhtyari"
+msgstr "بختياري"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_34011
+msgid "Balad"
+msgstr "بلد"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_32005
+msgid "Baladrouz"
+msgstr "بلدروز"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_32016
+msgid "Banisa'ad"
+msgstr "بني سعد"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41019
+msgid "Bartellah"
+msgstr "برطلة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_42011
+msgid "Batouna"
+msgstr "باطونة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_46009
+msgid "Bazyan"
+msgstr "بازيان"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41013
+msgid "Ba’sheeqa"
+msgstr "بعشيقة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_46011
+msgid "Bekra Jo"
+msgstr "بكره جو"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41004
+msgid "Belatt Al Shuhada'a"
+msgstr "بلاط الشهداء"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_42006
+msgid "Berdaresh"
+msgstr "برده رش"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_46013
+msgid "Beshdar"
+msgstr "بشدر"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_42005
+msgid "Bijil"
+msgstr "بيجيل"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_46021
+msgid "Calar"
+msgstr "كالار"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_46023
+msgid "Chemchemal"
+msgstr "ﭼﻤﭽﻤﺎل"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_46019
+msgid "Chwarta"
+msgstr "ﭼﻮارته"
+
+#. module: l10n_iq_cities
+#: model_terms:ir.ui.view,arch_db:l10n_iq_cities.view_partner_form
+msgid "City / Area"
+msgstr "المدينة / المنطقة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10007
+msgid "College Hospital"
+msgstr "مستشفى الكلية"
+
+#. module: l10n_iq_cities
+#: model:ir.model,name:l10n_iq_cities.model_res_partner
+msgid "Contact"
+msgstr "جهة الاتصال"
+
+#. module: l10n_iq_cities
+#: model:res.country.state,name:l10n_iq_cities.state_iq_42
+msgid "Dahūk"
+msgstr "دهوك"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_36008
+msgid "Daquq"
+msgstr "داقوق"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_44015
+msgid "Debca"
+msgstr "ديبكا"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_46020
+msgid "Derbendikhan"
+msgstr "دربندخان"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_44017
+msgid "Deshti Huweer"
+msgstr "دشتي هوير"
+
+#. module: l10n_iq_cities
+#: model:res.country.state,name:l10n_iq_cities.state_iq_64
+msgid "Dhi Qar"
+msgstr "ذي قار"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_44019
+msgid "Diana"
+msgstr "دايانا"
+
+#. module: l10n_iq_cities
+#: model:res.country.state,name:l10n_iq_cities.state_iq_32
+msgid "Diyala"
+msgstr "ديالى"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_46010
+msgid "Dokan"
+msgstr "دوكان"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_42001
+msgid "Duhouk"
+msgstr "دهوك"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10051
+msgid "Edara was Eqtisad"
+msgstr "الإدارة والإقتصاد"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_36015
+msgid "Elton Kubri"
+msgstr "التون كوبري"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_31005
+msgid "Enna"
+msgstr "عانه"
+
+#. module: l10n_iq_cities
+#: model:res.country.state,name:l10n_iq_cities.state_iq_44
+msgid "Erbil"
+msgstr "أربيل"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_44024
+msgid "Erbil police"
+msgstr "شرطة أربيل"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_51004
+msgid "Eshtar"
+msgstr "عشتار"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10064
+msgid "Filastin"
+msgstr "شارع فلسطين"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_44011
+msgid "Galala"
+msgstr "ﮔﻶله"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_58008
+msgid "Ghammas"
+msgstr "غماس"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_46006
+msgid "HaLabja"
+msgstr "ﺣﻠﺒﭽﻪ"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_31004
+msgid "Haditha"
+msgstr "حديثة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_44012
+msgid "Haj Umran"
+msgstr "حاج عمران"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_61022
+msgid "Hamdan"
+msgstr "حمدان"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41009
+msgid "Hammam Al Aleel"
+msgstr "حمام العليل"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10056
+msgid "Hamourabi"
+msgstr "حمورابي"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_44006
+msgid "Hareer"
+msgstr "حرير"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_46029
+msgid "Hawkary"
+msgstr "هوكاري"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10005
+msgid "Hay Adan"
+msgstr "حي عدن"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10003
+msgid "Hayfa"
+msgstr "شارع حيفا"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_31007
+msgid "Heet"
+msgstr "هيت"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_32012
+msgid "Hubhib"
+msgstr "هبهب"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10024
+msgid "ISC Cargo Terminal"
+msgstr "محطة الشحن ISC"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_61023
+msgid "Ibnil Haythem"
+msgstr "ابن الهيثم"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_32008
+msgid "Jalawla'a"
+msgstr "جلولاء"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_44010
+msgid "Joman"
+msgstr "جومان"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_51019
+msgid "Jurf Al Sakhar"
+msgstr "جرف الصخر"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_31018
+msgid "Kabisa"
+msgstr "كبيسة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_44018
+msgid "Kalak"
+msgstr "كلك"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_32011
+msgid "Kan’aan"
+msgstr "كنعان"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_56001
+#: model:res.country.state,name:l10n_iq_cities.state_iq_56
+msgid "Karbala"
+msgstr "كربلاء"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_64009
+msgid "Karmat Beni Sa'eed"
+msgstr "كرمة بني سعيد"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_32004
+msgid "Kefri"
+msgstr "كفري"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_44007
+msgid "Khaleefan"
+msgstr "خليفان"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_36004
+msgid "Khalid Bin Al Waleed"
+msgstr "خالد بن الوليد"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_32007
+msgid "Khanaqeen"
+msgstr "خانقين"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_61025
+msgid "Khour Alzubair"
+msgstr "خور الزبير"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_46022
+msgid "Kifri"
+msgstr "كفري"
+
+#. module: l10n_iq_cities
+#: model:res.country.state,name:l10n_iq_cities.state_iq_36
+msgid "Kirkuk"
+msgstr "كركوك"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_44023
+msgid "Koy Sinjaq"
+msgstr "كويسنجق"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_46017
+msgid "Koya"
+msgstr "كويه"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_62004
+msgid "Kumait"
+msgstr "كميت"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_36001
+msgid "Kurkuk"
+msgstr "كركوك"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_46015
+msgid "Kwaisanjaq"
+msgstr "كويسنجق"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_36003
+msgid "Lilan"
+msgstr "ليلان"
+
+#. module: l10n_iq_cities
+#: model:ir.model.fields,field_description:l10n_iq_cities.field_res_partner__city_id
+#: model:ir.model.fields,field_description:l10n_iq_cities.field_res_users__city_id
+msgid "Local Area"
+msgstr "المنطقة المحلية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_61030
+msgid "Madinat Al Basrah"
+msgstr "مدينة البصرة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41017
+msgid "Makhmour"
+msgstr "مخمور"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_32009
+msgid "Mandily"
+msgstr "مندلي"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_42999
+msgid "Marina"
+msgstr "مارينا"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_44004
+msgid "Masseef Salahelddeen"
+msgstr "مصيف صلاح الدين"
+
+#. module: l10n_iq_cities
+#: model:res.country.state,name:l10n_iq_cities.state_iq_62
+msgid "Maysan"
+msgstr "ميسان"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_44020
+msgid "Mekhmour"
+msgstr "مخمور"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_44013
+msgid "Merga Sur"
+msgstr "ميرگه سور"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_54006
+msgid "Mishkhab"
+msgstr "المشخاب"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_44016
+msgid "Mishtiqa"
+msgstr "مشتكه"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41001
+msgid "Mousl"
+msgstr "الموصل"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41002
+msgid "Mousl University"
+msgstr "جامعة الموصل"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10077
+msgid "Nahiyat Alrasheed"
+msgstr "ناحية الرشيد"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_58016
+msgid "Nefar"
+msgstr "نفر"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10062
+msgid "New Baghdad"
+msgstr "بغداد الجديدة"
+
+#. module: l10n_iq_cities
+#: model:res.country.state,name:l10n_iq_cities.state_iq_41
+msgid "Ninawa"
+msgstr "نينوي"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_46007
+msgid "Penjaween"
+msgstr "بنجاوين"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_62008
+msgid "Qal'at Salih"
+msgstr "قلعة صالح"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_46016
+msgid "Qal’at Diza"
+msgstr "قلعة ديزا"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_46014
+msgid "Qara Dag"
+msgstr "قره داغ"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_32010
+msgid "Qaratabba"
+msgstr "قره تبه"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_32013
+msgid "Qazaniyah"
+msgstr "قازانية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_44021
+msgid "Quwair"
+msgstr "القوير"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41025
+msgid "Rabeeaa"
+msgstr "ربيعة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_46012
+msgid "Rania"
+msgstr "رانيا"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_31006
+msgid "Rawah"
+msgstr "راوة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_44009
+msgid "Rawendooz"
+msgstr "راوندوز"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_46003
+msgid "Razgari"
+msgstr "رازغري"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_61026
+msgid "Rijal Al A'mal"
+msgstr "رجال الأعمال"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_34003
+msgid "Sa'ad"
+msgstr "سعد"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10083
+msgid "Sab' Albour"
+msgstr "سبع البور"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10054
+msgid "Sab'abkar"
+msgstr "سبع أبكار"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_31021
+msgid "Sadah"
+msgstr "سعده"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_51010
+msgid "Saddat Al Hindiyah"
+msgstr "سدة الهندية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_46008
+msgid "Said Sadiq"
+msgstr "سيد صادق"
+
+#. module: l10n_iq_cities
+#: model:res.country.state,name:l10n_iq_cities.state_iq_34
+msgid "Salah ad Din"
+msgstr "صلاح الدين"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_44002
+msgid "Salladdin University"
+msgstr "جامعة صلاح الدين"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_34004
+msgid "Salman Pak"
+msgstr "سلمان باك"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_34010
+msgid "Samarra'"
+msgstr "سامراء"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_42009
+msgid "Sarsanq"
+msgstr "سرسنك"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_44014
+msgid "Seerwan"
+msgstr "سيروان"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_52008
+msgid "Shaikh Sa'ad"
+msgstr "شيخ سعد"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_44005
+msgid "Shaqlawa"
+msgstr "شقلاوة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_46005
+msgid "Sharazor"
+msgstr "شهر زور"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41015
+msgid "Sinjar"
+msgstr "سنجار"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_44008
+msgid "Soran"
+msgstr "سوران"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_42010
+msgid "Sulaf"
+msgstr "سولاف"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_46001
+msgid "Sulaymaniah"
+msgstr "السليمانية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_58011
+msgid "Sumer"
+msgstr "سومر"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_64016
+msgid "Suq Al Shuiokh"
+msgstr "سوق الشيوخ"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_42003
+msgid "Tahlava"
+msgstr "تحلاڤا"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10057
+msgid "Tammouz"
+msgstr "تموز"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_31019
+msgid "Tarbil"
+msgstr "طربيل"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_36006
+msgid "Taza Khormatoo"
+msgstr "طوز خورماتو"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10066
+msgid "Technology University"
+msgstr "الجامعة التكنولوجية"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41012
+msgid "Telkaif"
+msgstr "تلكيف"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41016
+msgid "Tella’far"
+msgstr "تلعفر"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41010
+msgid "Tella’squf"
+msgstr "تلا سكوف"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_34001
+msgid "Tikreet"
+msgstr "تكريت"
+
+#. module: l10n_iq_cities
+#: model:res.country.state,name:l10n_iq_cities.state_iq_52
+msgid "Wasit"
+msgstr "واسط"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_42002
+msgid "Zakhou"
+msgstr "زاخو"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_42007
+msgid "Zaweeta"
+msgstr "زاويتا"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_10091
+msgid "Zayouna"
+msgstr "زيونة"
+
+#. module: l10n_iq_cities
+#: model:res.city,name:l10n_iq_cities.iraq_city_41014
+msgid "Zummar"
+msgstr "زمار"
