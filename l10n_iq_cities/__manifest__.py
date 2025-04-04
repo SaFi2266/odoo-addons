@@ -5,7 +5,7 @@
     "category": "Localizations",
     'summary': "Set Iraqi states and cities",
     "author": "Mustafa SAADI, IQSYS",
-    "website" : "https://imerps.com",
+    "website" : "https://iqsys.io/ar",
     "auto_install": False,
     "depends": ["base_address_extended"],
     'installable': True,
