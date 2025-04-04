@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     "name": "Iraq Localization",
-    "version": "17.0.0.1",
+    "version": "17.0.0.2",
     "category": "Localizations",
     'summary': "Set Iraqi states and cities",
     "author": "Mustafa SAADI, IQSYS",
